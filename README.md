@@ -12,10 +12,10 @@ Python Developer and Indie Game Developer
 - DDMT, a Ren'Py game asset extracter, used as a soft GUI layer over rpatool. (https://github.com/xTrayambak/Doki-Doki-Modding-Tool)
 
 # About Me
-Hey, I'm Trayambak! I am a student at Somerville School, Noida, UP, India. I am fascinated with computers and programming. I like Maths and English.
+Hey, I'm Trayambak! I am a student. I am fascinated with computers and programming. I like Maths and English.
 I am a freelancer and I have worked for a Discord server with 1.7k members as a bot developer. (Currently, not for hire)
 I specialize in Python, at the moment. I love Python and write most of my stuff in it.
-I use Manjaro and Ubuntu as my daily drivers (Fedora previously).
+I use Arch Linux as my daily driver (Fedora previously).
 My dream job is to be a successful game developer, whilst embracing open-source! I believe that if code is shared together by huge companies, then humanity can progress 100x faster!
 Python FTW!
 I write backends in Python, and for that, I made my own simple serverless database.
