@@ -5,7 +5,6 @@ Python Developer and Indie Game Developer
 
 # Current Projects
 - The Untold Odyssey, a 3D MMORPG written in Python. (https://www.github.com/xTrayambak/TheUntoldOdyssey_Client) **[CURRENT PROJECT]**
-- SyntaxDB, a fast and easy-to-use serverless database library for Python. (https://www.github.com/xTrayambak/SyntaxDB) **[CURRENT PROJECT, TECH STACK]**
 
 # Old projects
 - Simple voxel water using sine waves in Roblox. (https://www.github.com/xTrayambak/waving-roblox-water)
@@ -15,11 +14,11 @@ Python Developer and Indie Game Developer
 
 # About Me
 Hey, I'm Trayambak! I am a student. I am fascinated with computers and programming. I like Maths and English.
-I am a freelancer and I have worked for a Discord server with 1.7k members as a bot developer. (Currently, not for hire)
-I specialize in Python, at the moment. I love Python and write most of my stuff in it.
+I am a freelancer and I have worked for a Discord server with 1.7k members as a bot developer. (Currently not for hire)
+I specialize in Python, Nim and Rust (learning) at the moment. I love Python and write most of my stuff in it.
 I use Fedora Linux as my daily driver (Arch previously).
 My dream job is to be a successful game developer, whilst embracing open-source! I believe that if code is shared together by huge companies, then humanity can progress 100x faster!
 Python FTW!
 I write backends in Python, and for that, I made my own simple serverless database.
 
-Have a great day! <3
+Have a great day!
