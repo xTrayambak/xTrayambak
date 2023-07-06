@@ -18,10 +18,14 @@ Rust is a curse of a language. Not the projects written in it by misguided progr
 Taking away control from the user is stupid. It is the entire "you shall be dumbed down and you will like it" formula that every Red Hat conspirator loves to preach but never talks about it when it comes to Rust. Screw you, I will deallocate nil pointers when I feel like it and you cannot do anything to stop me. This is why I love Nim. It trusts the user to not be a nutjob and that's great.
 
 # About Me
-Hey, I'm Trayambak! I am a student. I am fascinated with computers and programming. I like Maths and English.
+Hey, I'm Trayambak. I am a student. I am fascinated with computers and programming. I like Maths and English.
 I am a freelancer and I have worked for a Discord server with 1.7k members as a bot developer. (Currently not for hire)
 I currently use Nim and Python. I love Nim and nowadays write most of my stuff in it.
 I use Fedora Linux as my daily driver (Arch previously).
-Nim FTW!
+
+# Contact Me
+Discord - xtrayambak
+
+Mastodon - @xtrayambak@fosstodon.org
 
 Have a great day!
