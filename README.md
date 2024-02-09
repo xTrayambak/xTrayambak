@@ -8,11 +8,11 @@ Nothing much to see here.
 - [Ferus](https://github.com/ferus-web/ferus), a toy web engine written in Nim **[CURRENT PROJECT]**
 
 # My stance on software
-I believe all software should give users the right to modify and hack around with it. Forks are great, but certain types of forks that are parasitic should be avoided at all costs (see Dissenter). \
+I believe all software should give users the right to modify and hack around with it. Forks are great, but certain types of forks that are parasitic should be avoided at all costs (see Dissenter).
 
-Software need not be simple, it does not need to be dumbed down to the point that it does nothing beyond it's current feature set. \
-Large projects (or projects intended to be large) should instead be split into smaller components to reduce code complexity. \
-This is never always the case, but it generally is the best way to go around doing things. \
+Software need not be simple, it does not need to be dumbed down to the point that it does nothing beyond it's current feature set.
+Large projects (or projects intended to be large) should instead be split into smaller components to reduce code complexity.
+This is never always the case, but it generally is the best way to go around doing things.
 
 There used to be a section here about how Rust is awful, but little did all the Rustaceans realize, I've been trolling them the entire time. Thanks for the angry Discord messages. :>
 
