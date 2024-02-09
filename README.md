@@ -25,6 +25,6 @@ I use Fedora Linux as my daily driver (NixOS previously).
 # Contact Me
 Discord - xtrayambak \
 Mastodon - @xtrayambak@fosstodon.org \
-E-Mail - trayambakrai@proton.me \
+E-Mail - trayambakrai@proton.me
 
 Have a great day!
