@@ -1,5 +1,5 @@
 # xTrayambak
-Hiya. I'm a programmer with an interest in interpreters, compilers and POSIX. I mostly write Nim, C, C++ code.
+Hiya. I'm a 16-year-old programmer with an interest in interpreters, compilers and POSIX. I mostly write Nim, C, C++ code.
 
 [![xTrayambak's GitHub stats](https://github-readme-stats.vercel.app/api?username=xTrayambak)](https://github.com/xTrayambak/github-readme-stats)
 
