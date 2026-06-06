@@ -1,5 +1,5 @@
 # xTrayambak
-Hiya. I'm a 16-year-old programmer with an interest in interpreters, compilers and POSIX. I mostly write Nim and C.
+Hiya. I'm a 17-year-old programmer with an interest in interpreters, compilers and POSIX. I mostly write Nim and C.
 
 # Current Projects
 - [Bali](https://github.com/ferus-web/bali), a JavaScript engine with a JIT compiler written in Nim **[CURRENT PROJECT]**
